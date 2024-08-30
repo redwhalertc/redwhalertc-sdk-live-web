@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.50c9d34a.css",
+    "main.js": "./static/js/main.11231d8c.js",
+    "example.css": "./static/css/example.a6e22f22.css",
+    "example.js": "./static/js/example.30743a38.js",
+    "toolbar.css": "./static/css/toolbar.d1874c5b.css",
+    "toolbar.js": "./static/js/toolbar.f5df2ee4.js",
+    "member-manager.css": "./static/css/member-manager.e2bca277.css",
+    "member-manager.js": "./static/js/member-manager.a8becabf.js",
+    "config-meeting.css": "./static/css/config-meeting.7bafa1b2.css",
+    "config-meeting.js": "./static/js/config-meeting.27c7546a.js",
+    "static/js/488.60f8a5fe.chunk.js": "./static/js/488.60f8a5fe.chunk.js",
+    "static/media/background_demo.png": "./static/media/background_demo.ad8abc3f9c49eaecbd7b.png",
+    "static/media/background_welcome.png": "./static/media/background_welcome.f79cc87919cabd66be49.png",
+    "static/media/minxing_welcome.png": "./static/media/minxing_welcome.59fb286ad65993aaf6c4.png",
+    "static/media/redwhale_logo.png": "./static/media/redwhale_logo.282ecd74677d16fa5d83.png",
+    "static/media/no_data.png": "./static/media/no_data.0b368694b409985bb403.png",
+    "config-meeting.html": "./config-meeting.html",
+    "member-manager.html": "./member-manager.html",
+    "example.html": "./example.html",
+    "toolbar.html": "./toolbar.html",
+    "index.html": "./index.html",
+    "main.50c9d34a.css.map": "./static/css/main.50c9d34a.css.map",
+    "main.11231d8c.js.map": "./static/js/main.11231d8c.js.map",
+    "example.a6e22f22.css.map": "./static/css/example.a6e22f22.css.map",
+    "example.30743a38.js.map": "./static/js/example.30743a38.js.map",
+    "toolbar.d1874c5b.css.map": "./static/css/toolbar.d1874c5b.css.map",
+    "toolbar.f5df2ee4.js.map": "./static/js/toolbar.f5df2ee4.js.map",
+    "member-manager.e2bca277.css.map": "./static/css/member-manager.e2bca277.css.map",
+    "member-manager.a8becabf.js.map": "./static/js/member-manager.a8becabf.js.map",
+    "config-meeting.7bafa1b2.css.map": "./static/css/config-meeting.7bafa1b2.css.map",
+    "config-meeting.27c7546a.js.map": "./static/js/config-meeting.27c7546a.js.map",
+    "488.60f8a5fe.chunk.js.map": "./static/js/488.60f8a5fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c9d34a.css",
+    "static/js/main.11231d8c.js"
+  ]
+}
