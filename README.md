@@ -28,8 +28,7 @@
 ### 导入SDK文件夹
 将SDK文件夹中的内容拷贝至能访问的目录中, 确保目录中<code>*.html</code>文件能被访问到<br/> 
 例如访问地址: <br/>
-示例链接: <code>http://localhost:3000/example.html</code><br/>
-会议链接:<code>http://localhost:3000/index.html</code>
+直播链接:<code>http://localhost:3000/index.html</code>
 
 
 ## 集成代码
@@ -47,7 +46,7 @@
 ```
 ### 进入直播间
 ```
-  window.redwhale.init({
+  window.redwhale.live.init({
     entry: 'join', // 进入直播间
     user: {
       userId: 'xxxx', // 用户ID 必填
